@@ -1,8 +1,6 @@
-# Hi there, I'm Ravishankar! 👋
-
 ## About Me
 
-I'm Ravi — a developer, learner, and builder. I work primarily with Python and modern web tooling to build useful apps and automation. I enjoy solving problems, contributing to open source, and learning new technologies related to machine learning and web deployment.
+I'm Ravishankar — a developer, learner, and builder. I work primarily with Python and modern web tooling to build useful apps and automation. I enjoy solving problems, contributing to open source, and learning new technologies related to machine learning and web deployment.
 
 - 🔭 I’m currently building: AI-powered web app using Flet + Gemini API
 - 🌱 I’m learning: advanced ML deployment and production-ready web apps
@@ -36,25 +34,14 @@ I'm Ravi — a developer, learner, and builder. I work primarily with Python and
 
 ## Skills & Tools
 
-- Languages: Python, JavaScript, SQL
-- Web / UI: Flet, Flask, FastAPI, HTML, CSS
-- Cloud / DevOps: Docker, GitHub Actions
-- APIs & Bots: Telegram API, various ML APIs
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravicoder0912&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravicoder0912&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravicoder0912&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 ---
 
@@ -73,7 +60,7 @@ I'm Ravi — a developer, learner, and builder. I work primarily with Python and
 ## Connect with me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+  <a href="https://www.linkedin.com/in/ravishankar-mishra-498000186/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mishraravi3611@gmail.com">
