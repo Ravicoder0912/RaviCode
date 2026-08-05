@@ -11,7 +11,7 @@ I'm Ravi — developer, learner, and builder. I work with Python and modern web 
 - 🌱 I’m learning: advanced ML deployment, production-ready web apps
 - 👯 I’m looking to collaborate on: Python apps, bots, and small ML projects
 - 💬 Ask me about: Python, Telegram bots, Flet, automation
-- 📫 How to reach me: YOUR_EMAIL@gmail.com
+- 📫 How to reach me: mishraravi3611@gmail.com
 
 ---
 
