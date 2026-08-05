@@ -1,3 +1,5 @@
+<img width="405" height="525" alt="photo_2025-03-19_09-44-52" src="https://github.com/user-attachments/assets/0da0f87b-b3ea-4440-a690-de56278aac58" />
+<img width="405" height="525" alt="photo_2025-03-19_09-44-52" src="https://github.com/user-attachments/assets/54073745-834c-4777-8d5f-8773de53a263" />
 # Hi there, I'm Ravi! 👋
 
 <div align="center">
