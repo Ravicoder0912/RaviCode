@@ -67,7 +67,7 @@ I'm Ravi — developer, learner, and builder. I work with Python and modern web 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mishraravi3611@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
