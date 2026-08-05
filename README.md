@@ -1,7 +1,8 @@
 # Hi there, I'm Ravi! 👋
 
 <div align="center">
-  <img src="YOUR-BANNER-IMAGE-NAME.png" alt="Profile Banner" width="100%" />
+  <img src="<img width="405" height="525" alt="photo_2025-03-19_09-44-52" src="https://github.com/user-attachments/assets/d846e7b8-c3e0-4bbe-8a6e-e79a56c92ebe" />
+" alt="Profile Banner" width="100%" />
 </div>
 
 ### 🚀 Featured Development Work
