@@ -1,9 +1,5 @@
 # Hi there, I'm Ravi! 👋
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ravicoder0912/RaviCode/main/assets/profile-banner.png" alt="Profile Banner" width="100%" />
-</div>
-
 ## About Me
 
 I'm Ravi — a developer, learner, and builder. I work primarily with Python and modern web tooling to build useful apps and automation. I enjoy solving problems, contributing to open source, and learning new technologies related to machine learning and web deployment.
