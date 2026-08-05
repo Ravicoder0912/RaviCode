@@ -5,17 +5,30 @@
 </div>
 
 ## About Me
-I'm Ravi — developer, learner, and builder. I work with Python and modern web tooling to build useful apps and automation. I enjoy solving problems, contributing to open source, and learning new technologies.
 
-- 🔭 I’m currently working on: AI-Powered Web App (Flet + Gemini API)
-- 🌱 I’m learning: advanced ML deployment, production-ready web apps
-- 👯 I’m looking to collaborate on: Python apps, bots, and small ML projects
+I'm Ravi — a developer, learner, and builder. I work primarily with Python and modern web tooling to build useful apps and automation. I enjoy solving problems, contributing to open source, and learning new technologies related to machine learning and web deployment.
+
+- 🔭 I’m currently building: AI-powered web app using Flet + Gemini API
+- 🌱 I’m learning: advanced ML deployment and production-ready web apps
+- 👯 I’m open to collaborating on: Python apps, bots, and ML/automation projects
 - 💬 Ask me about: Python, Telegram bots, Flet, automation
-- 📫 How to reach me: mishraravi3611@gmail.com
+- 📫 Reach me: mishraravi3611@gmail.com
+
+---
+
+## Table of Contents
+
+- [Featured Projects](#featured-projects)
+- [Skills & Tools](#skills--tools)
+- [GitHub Stats](#github-stats)
+- [Contributions](#contributions)
+- [Connect with me](#connect-with-me)
 
 ---
 
 ## Featured Projects
+
+> A few projects I'm proud of — open to PRs, feedback and collaboration. Replace the placeholder links with your actual project repos if you'd like.
 
 | Project | Tech Stack | Link |
 | --- | --- | --- |
@@ -28,9 +41,9 @@ I'm Ravi — developer, learner, and builder. I work with Python and modern web 
 ## Skills & Tools
 
 - Languages: Python, JavaScript, SQL
-- Web: Flet, Flask/FastAPI, HTML/CSS
+- Web / UI: Flet, Flask, FastAPI, HTML, CSS
 - Cloud / DevOps: Docker, GitHub Actions
-- APIs: Telegram API, various ML APIs
+- APIs & Bots: Telegram API, various ML APIs
 
 ---
 
@@ -74,4 +87,4 @@ I'm Ravi — developer, learner, and builder. I work with Python and modern web 
 
 ---
 
-Thanks for visiting — feel free to check out my pinned repos and reach out!
+Thanks for visiting — feel free to explore my pinned repos and reach out for collaborations or questions!
