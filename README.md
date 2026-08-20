@@ -21,7 +21,7 @@ I'm Ravishankar — a developer, learner, and builder. I work primarily with Pyt
 
 | Project | Tech Stack | Link |
 | --- | --- | --- |
-| TieBreaker | TypeScript | [Google-AI](https://github.com/Ravicoder0912/TieBreaker) |
+| TieBreaker | TypeScript | [TieBreaker](https://github.com/Ravicoder0912/TieBreaker) |
 | Resume Maker | Kotlin | [Resume-Maker](https://github.com/Ravicoder0912/Resume-Maker) |
 
 ## Skills & Tools
