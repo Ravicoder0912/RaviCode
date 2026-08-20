@@ -21,7 +21,6 @@ I'm Ravishankar — a developer, learner, and builder. I work primarily with Pyt
 
 - [Featured Projects](#featured-projects)
 - [Skills & Tools](#skills--tools)
-- [GitHub Stats](#github-stats)
 - [Connect with Me](#connect-with-me)
 
 ---
@@ -66,16 +65,6 @@ I'm Ravishankar — a developer, learner, and builder. I work primarily with Pyt
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ravicoder0912&show_icons=true&theme=radical&hide_border=true" alt="Ravishankar's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravicoder0912&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
 
 ## Connect with Me
 
