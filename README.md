@@ -1,28 +1,41 @@
+<div align="center">
+  <h1>Hi there, I'm Ravishankar 👋</h1>
+  <p><strong>Python Developer • AI & Automation Enthusiast • Open Source Contributor</strong></p>
+</div>
+
+---
+
 ## About Me
 
 I'm Ravishankar — a developer, learner, and builder. I work primarily with Python and modern web tooling to build useful apps and automation. I enjoy solving problems, contributing to open source, and learning new technologies related to machine learning and web deployment.
 
-- 🔭 I’m currently building: AI-powered web app using Flet + Gemini API
-- 🌱 I’m learning: advanced ML deployment and production-ready web apps
-- 👯 I’m open to collaborating on: Python apps, bots, and ML/automation projects
-- 💬 Ask me about: Python, Telegram bots, Flet, automation
-- 📫 Reach me: mishraravi3611@gmail.com
+- 🔭 **Currently Building:** AI-powered web applications using Flet & Google Gemini API
+- 🌱 **Currently Learning:** Advanced ML deployment and production-ready web architectures
+- 👯 **Open to Collaborating On:** Python applications, automation bots, and GenAI projects
+- 💬 **Ask Me About:** Python, Telegram Bots, Flet, LLM Integrations, API Automation
+- 📫 **Reach Me:** [mishraravi3611@gmail.com](mailto:mishraravi3611@gmail.com)
+
+---
 
 ## Table of Contents
 
 - [Featured Projects](#featured-projects)
 - [Skills & Tools](#skills--tools)
-- [Contributions](#contributions)
-- [Connect with me](#connect-with-me)
+- [GitHub Stats](#github-stats)
+- [Connect with Me](#connect-with-me)
+
+---
 
 ## Featured Projects
 
-> A few projects I'm proud of — open to PRs, feedback and collaboration.
+> A few projects I'm proud of — open to PRs, feedback, and collaboration.
 
-| Project | Tech Stack | Link |
-| --- | --- | --- |
-| TieBreaker | TypeScript | [TieBreaker](https://github.com/Ravicoder0912/TieBreaker) |
-| Resume Maker | Kotlin | [Resume-Maker](https://github.com/Ravicoder0912/Resume-Maker) |
+| Project | Tech Stack | Description | Repository |
+| :--- | :--- | :--- | :--- |
+| **TieBreaker** | TypeScript | Interactive web application leveraging AI tools and logic workflows. | [View Project](https://github.com/Ravicoder0912/TieBreaker) |
+| **Resume Maker** | Kotlin | Android application designed to build, format, and export professional resumes. | [View Project](https://github.com/Ravicoder0912/Resume-Maker) |
+
+---
 
 ## Skills & Tools
 
@@ -52,16 +65,28 @@ I'm Ravishankar — a developer, learner, and builder. I work primarily with Pyt
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Contributions
+---
 
-github contribution grid snake animation
+## GitHub Stats
 
+<div align="center">
 
-## Connect with me
+<img src="https://github-readme-stats.vercel.app/api?username=Ravicoder0912&show_icons=true&theme=radical&hide_border=true" alt="Ravishankar's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravicoder0912&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div>
+
+## Connect with Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravishankar-mishra-498000186)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishraravi3611@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravicoder0912)
----
 
-Thanks for visiting — feel free to explore my pinned repos and reach out for collaborations or questions!
+<br />
+
+*Thanks for visiting — feel free to explore my repositories and reach out for collaborations!*
+
+</div>
