@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Ravishankar 👋</h1>
-  <p><strong>Python Developer • AI & Automation Enthusiast • Open Source Contributor</strong></p>
+  <p><strong>Python Developer • Data Analyst • GenAI & Automation Specialist</strong></p>
 </div>
 
 ---
