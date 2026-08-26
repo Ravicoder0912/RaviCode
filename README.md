@@ -3,16 +3,16 @@
   <p><strong>Python Developer • Data Analyst • GenAI & Automation Specialist</strong></p>
 </div>
 
----
 
 ## About Me
 
-I'm Ravishankar — a developer, learner, and builder. I work primarily with Python and modern web tooling to build useful apps and automation. I enjoy solving problems, contributing to open source, and learning new technologies related to machine learning and web deployment.
+I'm Ravishankar — a developer, learner, and builder. I work with Python, modern web tooling, and native Android development to build useful applications and automation. I enjoy solving problems, contributing to open source, and learning new technologies related to mobile platforms, machine learning, and web deployment.
 
+- 📱 **Android Apps:** Developing native Android applications using Kotlin (e.g., Resume Maker)
 - 🔭 **Currently Building:** AI-powered web applications using Flet & Google Gemini API
-- 🌱 **Currently Learning:** Advanced ML deployment and production-ready web architectures
-- 👯 **Open to Collaborating On:** Python applications, automation bots, and GenAI projects
-- 💬 **Ask Me About:** Python, Telegram Bots, Flet, LLM Integrations, API Automation
+- 🌱 **Currently Learning:** Advanced ML deployment, Android architecture, and production-ready web systems
+- 👯 **Open to Collaborating On:** Python applications, Android apps, automation bots, and GenAI projects
+- 💬 **Ask Me About:** Python, Kotlin & Android, Telegram Bots, Flet, LLM Integrations, API Automation
 - 📫 **Reach Me:** [mishraravi3611@gmail.com](mailto:mishraravi3611@gmail.com)
 
 ---
@@ -80,6 +80,13 @@ I'm Ravishankar — a developer, learner, and builder. I work primarily with Pyt
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+## 🏆 Certifications
+- **Advanced Certification in AI and Machine Learning** — E&ICT Academy, IIT Roorkee
+- **Cisco Certified Network Associate (CCNA) & CCNP SCOR** — RST FORUM
+- **Cybersecurity Certification** — Unstop
+* **[Introduction to Cybersecurity](https://www.credly.com/badges/13f5f84a-4733-4e45-bac2-e37f57e6de8f/linked_in?t=tk67of)** — *Cisco* (Aug 2026)
+  * **Core Skills:** Threat Detection, Network Vulnerabilities, Privacy & Data Confidentiality, Cyber Best Practices
 ---
 
 ## Connect with Me
