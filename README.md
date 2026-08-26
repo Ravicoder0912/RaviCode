@@ -33,7 +33,8 @@ I'm Ravishankar — a developer, learner, and builder. I work primarily with Pyt
 | :--- | :--- | :--- | :--- |
 | **TieBreaker** | TypeScript | Interactive web application leveraging AI tools and logic workflows. | [View Project](https://github.com/Ravicoder0912/TieBreaker) |
 | **Resume Maker** | Kotlin | Android application designed to build, format, and export professional resumes. | [View Project](https://github.com/Ravicoder0912/Resume-Maker) |
-
+| Language-Translator** | TypeScript | Language translation tool assigned by CodeAlpha. | [View Project](https://github.com/Ravicoder0912/CodeAlpha-Language-Translator) |
+| Retrieval-Based-FAQ-Chatbot** | TypeScript | FAQ chatbot project assigned by CodeAlpha Team. | [View Project](https://github.com/Ravicoder0912/CodeAlpha-Retrieval-Based-FAQ-Chatbot) |
 ---
 
 ## Skills & Tools
